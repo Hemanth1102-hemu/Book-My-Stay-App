@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d664f8b-a7c0-49da-8721-77e88bfe1013" name="Changes" comment="" />
+    <list default="true" id="3d664f8b-a7c0-49da-8721-77e88bfe1013" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/bookmystayapp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bookmystayapp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmystayapp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,20 +23,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Bhavish-ba6850"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bhavish-ba6850&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Hemanth1102-hemu/Book-My-Stay-App.git",
-    "accountId": "298be9da-2338-46d4-8953-cf7c7bd4d83d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Hemanth1102-hemu/Book-My-Stay-App.git&quot;,
+    &quot;accountId&quot;: &quot;298be9da-2338-46d4-8953-cf7c7bd4d83d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -46,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/UC1",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Admin/Documents/B1P24_RA2411026010625/Book My Stay App/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
