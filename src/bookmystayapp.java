@@ -1,8 +1,3 @@
-/**
- * Book My Stay - Use Case 2 (Version 2.1)
- * Demonstrates abstraction, inheritance, and static availability.
- * @version 2.1
- */
 public class UseCase2RoomInitialization {
 
     private static int availableSingleRooms = 5;
